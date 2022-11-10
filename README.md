@@ -8,4 +8,4 @@ Primera aplicacion en android basica, con nombre TaskPlanner, con la creacion de
 
 # Licencia
 
-Licencia bajo la [GNU General Public License](https://github.com/JulianP-24/Task-planner-android-app-ieti/License).
+Licencia bajo la [GNU General Public License](https://github.com/JulianP-24/Task-planner-android-app-ieti/bbob/master/License).
